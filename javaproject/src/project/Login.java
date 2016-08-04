@@ -1,5 +1,5 @@
 package project;
-
+/*깃허브 수정 보려고 그냥 입력함*/
 import java.awt.Dimension;
 import java.awt.EventQueue;
 import java.awt.Font;
