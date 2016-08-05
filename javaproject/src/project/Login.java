@@ -19,7 +19,7 @@ import javax.swing.JTextField;
 import javax.swing.border.EmptyBorder;
 
 import lotto.dao.MemberDAO;
-
+/*수정되어라 제발*/
 public class Login extends JFrame {
 
 	private JPanel contentPane;
